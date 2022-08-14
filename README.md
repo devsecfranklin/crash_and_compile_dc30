@@ -26,7 +26,11 @@
 As explained on the [Crash and Compile Website](https://crashandcompile.org/), this is a
 coding challenge with a twist. You must complete the challenges while consuming many alcoholic
 beverages. And because it's DEFCON, you must also endure no small amount of haranguing
-from "Team Distraction". 
+from "Team Distraction".
+
+Just happened to bump into [PunkAB](https://twitter.com/punk_ab) on his way to set things
+up and I was thinking I'd at least stop by to check it out. He suggested I compete. I had
+a laptop and the requisite wired Ethernet gear. I had no excuse not to join. 
 
 For my part, I was on the "Control Team". Scientific experiments require a control, and
 this one is no different. So I got to play without having to endure the liver damage.
@@ -78,15 +82,32 @@ it is. The code from round two is similar and can be reused somewhat. There is a
 stomping on the stage and it's shaking so loudly, extremely jarring effect, the worst
 thing so far. I notice this challenge has cardinal directions (North, South, East, West)
 and I ask someone who tells me something about trying not to bump into a wall? After a while
-I realize there is a game board with different colored lines... OK I am red I guess? It
-becomes apparent to me that I need to "claim" spaces on the board for points.
+I notice there is a game board with different colored lines off to the side of the stage... OK 
+am red I guess? It becomes apparent to me that I need to "claim" spaces on the board for points.
 
 So I'm sure I have working code, I'm getting good responses from the API. Trying to understand
-why my token keeps changing, all these mini mental side quests. Show my code to the proctor
-who agrees it's right but no one knowns why I don't have points yet. But then... I do suddenly.
-First 5, then 12, then I figure out I can change the direction in my API call and as long as
-a valid move it will get points. I know I need to go back and automate this loop by parsing the 
-JSON for the valid list of next moves but the clock is running down fast and I am getting
-points by just changing the direction manually, then hitting up arrow and enter. 
+why my token keeps changing, other various and sundry mini mental side quests. Lost some
+not insignificant amount of time since I forgot to switch from the test to the
+`production` endpoints.  Show my code to the proctor who agrees it's right but
+no one knowns why I don't have points yet. But then... I do suddenly. First 5, then 12,
+then I figure out I can change the direction in my API call and as long as a
+valid move it will get points. I know I need to go back and automate this loop
+by parsing the  JSON for the valid list of next moves
+but the clock is running down fast and I am getting points by just changing the
+direction manually, then hitting up arrow and enter. 
 
 Round three, 50 or so points earned the hard way. One up arrow at a time.
+
+[Here is my mostly working solution](round3/arena.py)
+
+## Summary
+
+Had a total blast, a definite highlight of the conference for me! Was of course bummed
+I couldn't adapt faster and get a better score, but there was so much going on. And
+honestly no one is really sure how to get a giant metal decahedron home form the conference
+anyway, much to the delight of [Krux](https://twitter.com/krux).
+
+I'm sharing my awful code and explaining as best I can in the hopes that other brave
+souls will choose to come forward and rise to the challenge! 
+
+Very much looking forward to next time. :)
