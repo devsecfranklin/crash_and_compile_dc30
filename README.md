@@ -98,6 +98,8 @@ direction manually, then hitting up arrow and enter.
 
 Round three, 50 or so points earned the hard way. One up arrow at a time.
 
+[Here is my mostly working solution](round3/arena.py)
+
 ## Summary
 
 Had a total blast, a definite highlight of the conference for me! Was of course bummed
