@@ -107,4 +107,7 @@ I couldn't adapt faster and get a better score, but there was so much going on. 
 honestly no one is really sure how to get a giant metal decahedron home form the conference
 anyway, much to the delight of [Krux](https://twitter.com/krux).
 
-Looking forward to the next one!
+I'm sharing my awful code and explaining as best I can in the hopes that other brave
+souls will choose to come forward and rise to the challenge! 
+
+Very much looking forward to next time. :)
