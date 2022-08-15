@@ -68,7 +68,7 @@ in the exmaple solution. (Which I meant to capture a PDF of but forgot) Another 
 I didn't realize I needed to submit before the clock ran out. Also realized I needed
 to add the `N` back to the string holding the node name. (It's in my code now, but
 note that bit was completed after the clock ran out and everyone was doing shots
-and running off to vomit). We lose a teammate at the end of this round to Team Distraction.
+and running off to vomit). Lost a teammate at the end of this round to Team Distraction.
 
 So... zero points for round one! [The possibly working but ungraded soution is here](round1/nodes.py)
 
@@ -85,7 +85,7 @@ right then and there. Lucky my water had a lid because it was sideways on my key
 before I knew what was happening. A second team mate elects to drop out at the end of
 this round.
 
-Zero points for round two. [Possibly broken solution is here](round2/api.py)
+Zero points for round two. [Possibly (probably) broken solution is here](round2/api.py)
 
 ## Round Three
 
@@ -94,25 +94,30 @@ continue the contest. It's just me now, and someone has a machine that is dispen
 hundreds of tiny soap bubbles all over me. Everything is getting sticky, which is
 awful. The round starts, OK. Unlike the previous rounds there are no difficulty
 levels. Just `HARD` or nothing. OK, hard mode it is. The code from round two is
-similar and can be reused somewhat. There is a man stomping on the stage and it's
-shaking so loudly, extremely jarring effect, the worst thing so far. I notice this
-challenge has cardinal directions (North, South, East, West) and I ask someone
-who tells me something about trying not to bump into a wall? After a while
-I notice there is a game board with different colored lines off to the side of
-the stage... OK my lines are red it looks like? It becomes apparent to me that I
-need to "claim" spaces on the board for points. It's starting to make sense finally.
+similar and can be reused somewhat. At some point there is a man stomping on the
+stage and it's shaking so loudly, extremely jarring effect, the worst thing so far.
 
-So I'm sure I have working code, I'm getting good responses from the API. Trying
-to understand why my token keeps changing, which in previous rounds meant I needed
-to make some API command changes. Lots of mini mental side quests. Lost some
+I notice this challenge has cardinal directions (North, South, East, West) and
+I ask someone who tells me something about trying not to bump into a wall? After
+a while I notice there is a game board with different colored lines off to the
+side of the stage... OK my lines are red it looks like? It becomes apparent to me
+that I need to "claim" spaces on the board for points. It's starting to make sense
+finally.
+
+So I'm (mostly) sure I have working code, I'm getting good responses from the API.
+Trying to understand why my token keeps changing, which in previous rounds meant
+I needed to make some API command changes, but in this round turned out to have
+no bearing on the challenge. Lots of mini mental side quests. Lost some
 not insignificant amount of time since I forgot to switch from the "test" to the
-"production" endpoints.  Show my code to the proctor who agrees it's right but
-no one knowns why I don't have points yet. But then... I do suddenly. First 5,
-then 12, then I figure out I can change the direction in my API call and as
-long as a valid move it will get points. I know I need to go back and automate
-this loop by parsing the  JSON for the valid list of next moves
-but the clock is running down fast and I am getting points by just changing the
-direction manually, then hitting up arrow and enter.
+"production" endpoint.  Show my code to a proctor who agrees it's right but
+no one knowns why I don't have points yet. But then... I do suddenly have some
+points on the scoreboard. First 5, then 12, then I figure out I can change the
+direction in my API call and as long as I make a valid move it will earn me
+points. I know I need to go back and automate this loop by parsing the JSON for
+the valid list of next moves but the clock is running down fast and I am getting
+points by just changing the direction manually, then hitting up arrow and enter.
+Tried my best to update that code while still doing the manual solution but gave
+up as the clock was running out.
 
 Round three, 50 or so points earned the hard way. One up arrow at a time.
 
