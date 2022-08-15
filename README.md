@@ -136,7 +136,7 @@ Had a total blast, a definite highlight of the conference for me! Was
 of course bummed I couldn't adapt faster and get a better score. And
 winning meant you had to figure how to get a giant metal decahedron
 home form the conference, much to the delight of [Krux](https://twitter.com/krux)
-who I believe welded this... trophy!
+who I believe [welded this trophy](images/trophy.jpg) himself!
 
 I'm sharing my awful code and explaining as best I can in the hopes that
 other brave souls will choose to come forward and rise to the challenge.
