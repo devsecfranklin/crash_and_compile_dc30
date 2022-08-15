@@ -30,7 +30,8 @@ amount of haranguing from "Team Distraction".
 Just happened to bump into [PunkAB](https://twitter.com/punk_ab) on his way to set
 things up and I was thinking I'd at least stop by to check it out. He suggested I
 participate. I had a laptop and the requisite wired Ethernet gear with me, so I had
-no good excuse not to join in the event. Little did I know what I was getting in to!
+no good excuse not to join in the event. Little did I know what I was getting in
+to!
 
 For my part, I was on the "Control Team". Scientific experiments require a control,
 and this one is no different. While most of the teams are required to consume drinks
@@ -53,7 +54,8 @@ my spot. On stage, of course, even more nerve wracking!
 Had no clue what was going on. Someone shouted "GO" and it was then I realized my
 team wasn't registered because we were on the wrong website. So that's five minutes
 gone. Everyone was screaming and going crazy. People drinking large amounts of
-alcohol and acting up. The participants, the organizers, the audience, everyone. We
+alcohol and acting up. The participants, the organizers, the audience, everyone.
+We
 had three people trying to help but just me doing Python. Another person was expert
 level in C++ but we were getting caught up on syntax and small mistakes, trying
 to switch ideas between languages. Wasted at least five minutes trying to figure
@@ -87,7 +89,7 @@ right then and there. Lucky my water had a lid because it was sideways on
 my keyboard before I knew what was happening. A second team mate elects to
 drop out at the end of this round.
 
-Zero points for round two. 
+Zero points for round two.
 [Possibly (probably) broken solution is here](round2/api.py)
 
 ## Round Three
